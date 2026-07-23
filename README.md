@@ -2,7 +2,7 @@
 
 **Last updated:** July 23, 2026
 
-**SiliconGenie** ("we", "our", or "us") operates the **Meowku: Cat Sudoku Puzzle** mobile application.
+**SiliconGenie** ("we", "our", or "us") operates the **Meowku: Cat Sudoku Puzzle** application.
 
 ## 1. Information Collection and Use
 Meowku: Cat Sudoku Puzzle does not directly collect, store, or share any personally identifiable information. All game progress, high scores, and settings are saved locally on your device.
